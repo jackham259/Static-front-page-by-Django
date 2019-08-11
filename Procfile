@@ -1,0 +1,1 @@
+web: gunicorn bootstrap_proj.wsgi --log-file -
